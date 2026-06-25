@@ -76,3 +76,22 @@ nav ul li a:hover{
     color:#cbd5e1;
     line-height:1.8;
 }
+.about{
+    padding:80px 10%;
+    text-align:center;
+    background:#111827;
+}
+
+.about h2{
+    font-size:40px;
+    margin-bottom:25px;
+    color:#38bdf8;
+}
+
+.about p{
+    max-width:850px;
+    margin:auto;
+    color:#d1d5db;
+    line-height:1.9;
+    font-size:18px;
+}
